@@ -1,0 +1,4 @@
+[submodule "Seanpm2001/StartFsck"]
+	path = StartFsck/
+	url = https://github.com/seanpm2001/StartFsck
+# These submodules are not functional yet, I don't know how to create a submodule through the site yet, and I can't install software due to certain risks.
